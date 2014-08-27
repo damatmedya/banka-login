@@ -1,5 +1,5 @@
 /**
- * @version $Id$
+ * @version v1.0
  * @author Fatih DAMAT <fatihdamat54@gmail.com>
  * @copyright (c) DamatMedya <http://www.damatmedya.com>
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
